@@ -47,7 +47,7 @@
 ### Setup Instructions:
 ```bash
 # Clone the repo
-git clone https://github.com/anjeetpatel/sahu-garments.git
+git clone 
 cd sahu-garments
 
 # Install dependencies
@@ -57,9 +57,6 @@ npm install
 npm start
 ```
 👨‍💻 Author
--Anjeet Patel | Full-Stack Enthusiast
-- 📧 Email: anjeetpatel0306@gmail.com
-- 🌐 Portfolio: https://anjeetpatel0306.netlify.app
+-sarthak mathur | Full-Stack Enthusiast
+- 📧 Email: mathursarthak750@gmail.com
 
-📃 License
-This project is open-source and available under the MIT License.
